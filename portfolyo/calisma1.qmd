@@ -28,6 +28,11 @@ Burada yine tez konusunda bazı bilgiler verildi. Kendi kendini süren araçlar�
 ```
 ## (b)
 
+
+
+
+```{r}
+
 str(mtcars)
 
 # Sayısal özet istatistikleri hesaplayan fonksiyon
@@ -86,7 +91,14 @@ apply(mtcars, 2, function(R) {
   }
 })
 
+```
+
+
+
 ## (C)
+
+```{r}
+
 
 # dslabs paketini yükleyin
 install.packages("dslabs")
@@ -111,7 +123,7 @@ print(paste("Güncellenmiş veri setinde", clean_na_count, "NA değeri bulunmama
 value_count <- sum(cleaned_data == 2025)
 print(paste("2025 sayısı", value_count, "kez veri setinde bulunmaktadır."))
 
-
+```
 
 
 
