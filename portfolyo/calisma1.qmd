@@ -1,16 +1,12 @@
 ---
-title: "Çalışma 1"
+title: "Calisma 1"
 ---
 
-\
-(Aşağıdakiler örnek olarak verilmiştir.)
-
-Bu çalışmada 3 görevimiz var. Bu görevler..... Bunlara sırayla aşağıda cevap arıyoruz.
 
 ## (a)
+OZET 
 
-```{r}
-1 + 1
-```
-
-## (b)
+Veri Bilimi ve EndC<stri MC<hendisliDi Czerine Sohbetler -Kerem DemirtaE & Erdi DaEdemir
+Veri bilimi C<zerinden otonom araC'larD1n yC6nlendirilmesi ve yC6netilmesi konusunu anlattD1. Burada trafik akD1E modelleri, sensC6rlerin kontrolC<, envanter problemlerinin C'C6zC<mC< ve simC<lasyon araC'larD1nD1n kullanD1ldD1DD1nD1 belirtti. Data kD1smD1nda optimizasyonun yapD1lmasD1 C6rnek olarak salgD1n hastalD1klarD1n ortaya C'D1kmasD1, tarihsel datalarD1n incelenmesi, potansiyel olarak ileride nerede ortaya C'D1kabileceDini tahminlemesinin yapD1ldD1DD1nD1 anlatmD1EtD1r. Tez konusu olarak da ulaED1m anlamD1nda otomobiller C<zerindeki sensC6rler vasD1tasD1yla topladD1DD1 datalar C6rnek olarak C6nC<nC<zdeki araC' saatte kaC' kilometre hD1zla gidiyor bunun 360 derece belli bir uzaklD1Da kadar algD1layabiliyor, 3 boyutlu gC6rev verisi C'D1kararaki hangi Eeritte kaC' araC' var bunun hesaplamasD1nD1 yapD1p, yaygD1nlaEan bulut sistemine aktarD1mD1 yapD1lD1yor. Burada C6lC'eklenebilir sistem oluEturulmasD1 hedeflenmektedir. Bu anlamda Veri Biliminin hedefi sadece model inEa etmek deDil, veriyi toplayD1p, C6n iEleme yapD1p, veriyi analiz edip, sonuC'larD1n paydaElarla paylaED1lmasD1 da C6nemlidir. Veri biliminin sonuC' C'D1karabilmesi iC'in insan faktC6rC<nC<n her zaman olmasD1 gerekmektedir. DoDru sorularD1 bulup doDru sorularD1n C'D1karD1lmasD1 ve doDru Eekilde yorumlanmasD1 gerekmektedir. Burada dikkat edilmesi gereken bir nokta ise evet ben modeli yaptD1m fakat her zaman doDru sonuC' vermeyebilir C'C<nkC< burada trend deDiEebilir, gerC'ek dC<nya ile kD1yaslama yapmak, sorgulamak ve modeli gC<ncellemek gerekmektedir. Bu nedenle C'alD1EtD1DD1nD1z konu hakkD1nda bilginiz yoksa sadece model kurarak sonuC'larD1 yorumlayamazsD1nD1z. Bu anlamda yapay zeka bir veri bilimi deDil veri biliminin bir aracD1dD1r. D0nsan faktC6rC< ve insan yargD1sD1 yine olacaktD1r. 
+Veri biliminde model kurulmasD1 ve sonuC'larD1n C'D1karD1lmasD1 aEaDD1daki adD1mlardan oluEmaktadD1r:
+1-	Problemin tanD1mlanmasD1: Biz burada doDru problemi mi C'C6zC<yoruz. Crnek verecek olursak eDer 2. DC<nya savaED1 zamanD1nda vurulan uC'aklarD1n vurulma bC6lgeleri analiz edilerek vurulan kD1sD1mlarda gC<C'lendirme yapD1lmD1E ve bunun sonucunda uC'aDD1 aDD1rlD1DD1 artmasD1na raDmen vurulan uC'aklarD1n oranD1nda bir deDiEiklik olmadD1DD1 gC6rC<lmC<EtC<r. Fakat problem farklD1 bir noktadan yaklaED1ldD1DD1nda asD1l sonucu deDiEtirecek kD1sD1mda sorulmasD1 gereken soru b
