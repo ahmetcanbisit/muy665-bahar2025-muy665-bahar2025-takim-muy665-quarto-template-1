@@ -1,10 +1,10 @@
 ---
-title: "TakD1m Cyeleri"
+title: "TakD1m Uyeleri"
 ---
 
-TakD1m Cyelerimizin detaylD1 C6zgemiElerinin yer aldD1DD1 kiEisel sayfalarD1na gitmek iC'in sol menC<yC< veya aEaDD1daki linkleri kullanabilirsiniz.
+Takım uyeleri detaylı ozgecmislerinin yer aldıgı kisisel sayfalarına gitmek 
 
-# TakD1m Cyeleri
+# Takım Uyeleri
 
 1.  [ahmetcanbisit](/takim/ahmetcanbisit.qmd)
 
