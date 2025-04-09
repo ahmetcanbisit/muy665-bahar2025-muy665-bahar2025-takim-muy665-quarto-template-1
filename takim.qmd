@@ -1,15 +1,15 @@
 ---
-title: "Takım Üyeleri"
+title: "TakD1m Cyeleri"
 ---
 
-Takım Üyelerimizin detaylı özgemişlerinin yer aldığı kişisel sayfalarına gitmek için sol menüyü veya aşağıdaki linkleri kullanabilirsiniz.
+TakD1m Cyelerimizin detaylD1 C6zgemiElerinin yer aldD1DD1 kiEisel sayfalarD1na gitmek iC'in sol menC<yC< veya aEaDD1daki linkleri kullanabilirsiniz.
 
-# Takım Üyeleri
+# TakD1m Cyeleri
 
-1.  [Edin_Džeko](/takim/edindzeko.qmd)
+1.  [ahmetcanbisit](/takim/ahmetcanbisit.qmd)
 
-2.  [Dušan Tadić](/takim/dusantadic.qmd)
+2.  [DuE!an TadiD](/takim/dusantadic.qmd)
 
 3.  [Frederico Rodrigues de Paula Santos](/takim/fred.qmd)
 
-4.  [Sebastian Szymański](/takim/szymanski.qmd)
+4.  [Sebastian SzymaEski](/takim/szymanski.qmd)
