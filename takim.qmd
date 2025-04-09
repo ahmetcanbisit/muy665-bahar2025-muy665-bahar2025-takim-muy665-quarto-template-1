@@ -6,6 +6,7 @@ Takım uyeleri detaylı ozgecmislerinin yer aldıgı kisisel sayfalarına gitmek
 
 # Takım Uyeleri
 
+
 1.  [ahmetcanbisit](/takim/ahmetcanbisit.qmd)
 
 2.  [DuE!an TadiD](/takim/dusantadic.qmd)
